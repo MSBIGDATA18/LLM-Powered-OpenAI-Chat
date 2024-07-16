@@ -1,6 +1,5 @@
 # LLM-Powered-OpenAI-Chat
-
-# Welcome to our GitHub repository showcasing a project developed using Langchain and the OpenAI API to delve into fundamental indexing concepts.
+Welcome to our GitHub repository showcasing a project developed using Langchain and the OpenAI API to delve into fundamental indexing concepts.
 
 # Project Overview
  - This project leverages Langchain, a platform for building applications with advanced language models such as those from OpenAI. Our focus is on exploring how these technologies enhance text indexing and information retrieval.
