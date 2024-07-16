@@ -10,7 +10,6 @@ Welcome to our GitHub repository showcasing a project developed using Langchain 
 - Collaborative Development: Inviting community contributions to enrich and expand the project's capabilities.
 # Goals
 - Educational Exploration: Providing an educational resource to understand indexing concepts and their practical applications.
-
--Technological Development: Innovating by exploring the capabilities of language models in automated indexing.
+- Technological Development: Innovating by exploring the capabilities of language models in automated indexing.
 
 - Collaboration and Contributions: Welcoming contributors to enhance functionality and utility through feature additions, bug fixes, and documentation improvements.
